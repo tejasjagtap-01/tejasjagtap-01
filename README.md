@@ -1,9 +1,5 @@
 # Hi, I'm Tejas Jagtap 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejasjagtap01-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tejasjagtap01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Maven_Showcase-10B981?style=flat&logo=google-chrome&logoColor=white)](https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be)
-[![GitHub](https://img.shields.io/badge/GitHub-tejasjagtap--01-181717?style=flat&logo=github)](https://github.com/tejasjagtap-01)
-
 ### 📌 About Me
 I am a Data Analytics & Engineering practitioner focused on bridging the gap between robust data infrastructure and executive decision-making. My work spans the entire data lifecycle: architecting modular Python ETL pipelines, modeling normalized relational warehouses in PostgreSQL, implementing high-performance window queries, and translating complex metrics into actionable executive dashboards.
 
